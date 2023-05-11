@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<club>
+    <socio idSocio="1">
+        <nombreSocio>Uno</nombreSocio>
+        <direccion>Calle 1</direccion>
+        <fechaAlta>2023-05-01</fechaAlta>
+    </socio>
+    <socio idSocio="2">
+        <nombreSocio>Dos</nombreSocio>
+        <direccion>Calle 2</direccion>
+        <fechaAlta>2023-05-02</fechaAlta>
+    </socio>
+    <socio idSocio="3">
+        <nombreSocio>Tres</nombreSocio>
+        <direccion>Calle 3</direccion>
+        <fechaAlta>2023-05-03</fechaAlta>
+    </socio>
+</club>

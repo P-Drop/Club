@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<club>
+    <socio idSocio="1">
+        <nombreSocio>Nombre Ej1</nombreSocio>
+        <direccion>Calle Ej1</direccion>
+        <fechaAlta>Dia Ej1</fechaAlta>
+    </socio>
+    <socio idSocio="2">
+        <nombreSocio>Nombre Ej2</nombreSocio>
+        <direccion>Calle Ej2</direccion>
+        <fechaAlta>Dia Ej2</fechaAlta>
+    </socio>
+    <socio idSocio="3">
+        <nombreSocio>Socio 3</nombreSocio>
+        <direccion>Direccion 3</direccion>
+        <fechaAlta>hoy</fechaAlta>
+    </socio>
+</club>
